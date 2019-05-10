@@ -1,0 +1,7 @@
+name: WorldGuardFlagGUI
+version: 1.0.0
+description: Manage WorldGuard Flags via InventoryGUI
+author: crysis992
+main: net.crytec.wgflaggui.WorldGuardFlagGUI
+depend: [CT-Core, WorldGuard]
+api-version: 1.13
