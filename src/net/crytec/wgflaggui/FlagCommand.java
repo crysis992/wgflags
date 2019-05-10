@@ -18,7 +18,7 @@ import net.crytec.api.smartInv.SmartInventory;
 import net.crytec.wgflaggui.flags.FlagManager;
 
 @CommandAlias("regionoptions")
-@CommandPermission("wggui.options")
+@CommandPermission("flagmenu.command")
 public class FlagCommand extends BaseCommand {
 	
 	private final FlagManager manager;
